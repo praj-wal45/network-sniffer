@@ -2,6 +2,10 @@
 
 This is a simple network sniffer tool built with Python and Scapy for educational purposes in cyber security.
 
+## Demo
+
+View the live demo: [Security Dashboard](https://security-dashboard-40.preview.emergentagent.com/)
+
 ## Features
 
 - Captures and displays packet summaries
